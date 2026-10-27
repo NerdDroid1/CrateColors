@@ -1,0 +1,8 @@
+name=Crate Colors
+id=CrateColors
+description=Paint any container in the world - crates, boxes, lockers, shelves, fridges - with a full-spectrum color picker. Requires a paintbrush and a can of paint. Multiplayer-synced and saved with the world.
+poster=poster.png
+icon=icon.png
+author=Jeff
+modversion=1.0.0
+versionMin=42.0.0
