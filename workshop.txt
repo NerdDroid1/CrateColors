@@ -21,5 +21,9 @@ description=[/list]
 description=
 description=Workshop ID: (filled in after first upload)
 description=Mod ID: CrateColors
+description=
+description=[h2]Support the mod[/h2]
+description=If you enjoy this mod, donations are welcome and appreciated.
+description=[url=https://paypal.me/nerddroid][img]https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif[/img][/url]
 tags=Build 42;Misc;Multiplayer
 visibility=public
